@@ -2,9 +2,11 @@
 A project on a password-based door lock security system using Arduino and a keypad.
 
 WORKING MODEL:
+
 ![image](https://github.com/reeba24/ARDUINO-BASED-KEYPAD-LOCK/assets/100011665/fa5273ba-2e4b-4836-8cc5-600a0639886b)
 
 CIRCUIT DIAGRAM:
+
 ![image](https://github.com/reeba24/ARDUINO-BASED-KEYPAD-LOCK/assets/100011665/d3b2df75-7da7-4eb2-a136-e76d477ec8fd)
 
 SOFTWARE REQUIREMENTS:
